@@ -1,5 +1,7 @@
-### Hi there 👋  my name is Francis 😎
-I am a WEB and MOBILE Apps Developer 💻
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/download-removebg-preview.png">
+<h1 align="left">Hi there 👋  I'm Francis</h1> 
+A WEB and MOBILE Apps Developer 💻 and part of the RND Team of Multisys. 
+Feel free to contact me if you wish to offer or work together in a project
 
 - 🔭 I’m currently working on Web and Mobile App Projects
 - 🌱 I’m currently learning Flutter and ReactJS
