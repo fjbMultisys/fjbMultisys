@@ -7,5 +7,5 @@ Feel free to contact me if you wish to offer or work together in a project
 - 🌱 I’m currently learning Flutter and ReactJS
 - 👯 I’m looking to collaborate on open source projects
 
-[![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjbMultisys)](https://github.com/fjbMultisys/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjbMultisys)](https://github.com/fjbMultisys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjbMultisys)](https://github.com/fjbMultisys/github-readme-stats) [![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjbMultisys)](https://github.com/fjbMultisys/github-readme-stats) 
 
