@@ -27,3 +27,8 @@ Feel free to contact me if you wish to offer or work together in a project
 ### More stuff about me
 
 I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2017 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crash reports.
+
+
+<p align="center">
+<a href="https://github.com/fjbMultisys/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fjbMultisys&theme=github-dark&hide_title=true&hide_border=true&bg_color=00000000&color=417E87&point=7FFF00" width="98%" /></a>
+</p>
