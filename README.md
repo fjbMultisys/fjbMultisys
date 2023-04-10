@@ -7,12 +7,6 @@ Feel free to contact me if you wish to offer or work together in a project
 - 🌱 I’m currently learning Flutter and ReactJS
 - 👯 I’m looking to collaborate on open source projects
 
-<div>
-<a href="https://github.com/fjbMultisys/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fjbMultisys&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
-<a href="https://github.com/fjbMultisys/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=fjbMultisys&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="49%"  alt="stats"/></a>
-<hr width="49%" />
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=fjbMultisys&theme=github-dark-blue&hide_border=true&currStreakLabel=417E87&sideLabels=417E87&stroke=417E87&currStreakNum=7FFF00&background=00000000" width="49%" /></a>
-</div>
 
 ### Technologies and Tools
 
@@ -23,6 +17,15 @@ Feel free to contact me if you wish to offer or work together in a project
 [![SPM Badge](https://img.shields.io/badge/-SPM-007acc?style=for-the-badge&labelColor=black&logo=apple&logoColor=FFF)](https://developer.apple.com/documentation/swift_packages)
 [![Jira Badge](https://img.shields.io/badge/-Jira-1B46AC?style=for-the-badge&labelColor=black&logo=jira&logoColor=1B46AC)](https://www.atlassian.com/software/jira)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-F7CD51?style=for-the-badge&labelColor=black&logo=firebase&logoColor=F7CD51)](https://firebase.google.com)
+
+
+<div>
+<a href="https://github.com/fjbMultisys/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fjbMultisys&theme=transparent&hide_border=true&show_icons=true&locale=en&hide=html,javascript" width="47%" align="left" alt="lang"/></a>
+<a href="https://github.com/fjbMultisys/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=fjbMultisys&theme=transparent&hide_border=true&show_icons=true&count_private=true" width="49%"  alt="stats"/></a>
+<hr width="49%" />
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=fjbMultisys&theme=github-dark-blue&hide_border=true&currStreakLabel=417E87&sideLabels=417E87&stroke=417E87&currStreakNum=7FFF00&background=00000000" width="49%" /></a>
+</div>
+
 
 ### More stuff about me
 
