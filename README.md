@@ -4,7 +4,7 @@ A WEB and MOBILE Apps Developer 💻 and part of the RND Team of Multisys.
 Feel free to contact me if you wish to offer or work together in a project
 
 - 🔭 I’m currently working on Web and Mobile App Projects
-- 🌱 I’m currently learning Flutter and ReactJS
+- 🌱 I’m currently learning Flutter and Python
 - 👯 I’m looking to collaborate on open source projects
 
 
